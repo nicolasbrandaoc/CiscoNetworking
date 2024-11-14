@@ -1,15 +1,17 @@
 
 
 
+======= INTER SWITCH CONNECTIVITY ============
 
-Vlans and trunks 
+VLANS AND TRUNK PORTS
 
-What problem is solved by vlans?
 
-extending vlans between switches with VLAN Trunks
-    isl compared to 801.1q
-    Native vlan concept
-DTP and its various modes of operations
+    What problem is solved by vlans?
+
+    extending vlans between switches with VLAN Trunks
+        isl compared to 801.1q
+        Native vlan concept
+        DTP and its various modes of operations
 
 802.1q tag
     what is a 802.1q tag-?
